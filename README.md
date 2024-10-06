@@ -1,4 +1,4 @@
-![Hello logo](https://camo.githubusercontent.com/82e15927fe3a779d5bb243ed93d85f49768667c7251d713991e67888e522f207/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e7426746578743d48656c6c6f21266865696768743d3130302673656374696f6e3d686561646572)
+![Hello logo](https://github.com/user-attachments/assets/beb782cb-bad4-4d56-92e3-53f003f2f8b3)
 
 
 <h1 align="left">👋 I’m here and ready to chat</h1>
@@ -53,6 +53,8 @@
 <a href="https://www.leetcode.com/puneet932004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="puneet932004" height="20" width="20" /></a>
   <img width="12" />
 <a href="https://auth.geeksforgeeks.org/user/puneet932004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="puneet932004" height="20" width="20" /></a>
+  <img width="12" />
+<a href="https://www.naukri.com/code360/profile/puneetyadav" target="blank"><img align="center" src="https://github.com/user-attachments/assets/10fa682f-a243-48ae-9c8d-3523fd95a315" alt="puneetyadav" height="20" width="20" /></a>
 </p>
 
 
